@@ -9,7 +9,7 @@
 ////
 
 [[security]]
-= Eclipse Vulnerability Reporting Policy
+= Eclipse Foundation Vulnerability Reporting Policy
 
 DRAFT. Version 1.1RC1 December 4/2019
 
