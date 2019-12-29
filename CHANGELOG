@@ -1,0 +1,15 @@
+# ChangeLog
+
+## [2019] - 2019-12-14 (version 1.1)
+
+### Changes
+- Changed the name from "Security Policy" to "Vulnerability Reporting Policy"
+- Formalized terms into their own section.
+- Changed several occurances of the word "can" to "may" to improve clarity.
+
+### Added
+- Added a pointer to the Grievance Handling section of the Eclipse Foundation Development Process.
+
+### Removed
+- Removed references to specific technology (e.g., Bugzilla or specific mailing lists). These are implementation details.
+- Removed references to the Eclipse Planning Council and Simultaneous Release.
