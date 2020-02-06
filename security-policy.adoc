@@ -41,7 +41,7 @@ The Security Team is composed of a small number of security experts and represen
 
 The Eclipse Foundation is responsible for establishing communication channels for the Security Team.
 
-Initial discussion of an open Vulnerability may occur privately amongst members of the project and Security Team. Discussion should be moved to and tracked by an Eclipse Foundation-supported issue tracker as early as possible in the mitigation process. Appropriate effort must be undertaken to ensure that the visibility of a reported issue is managed.
+Every potential issue reported on established communication channels should be triaged and relevant parties notified. Initial discussion of a potential Vulnerability may occur privately amongst members of the project and Security Team. Discussion should be moved to and tracked by an Eclipse Foundation-supported issue tracker as early as possible once confirmed so the mitigation process may proceed. Appropriate effort must be undertaken to ensure the initial visibility, as well as the legitimacy, of every reported issue.
 
 [[security-resolution]]
 == Resolution
